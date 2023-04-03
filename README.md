@@ -1,7 +1,7 @@
 # 06-bases-vuex
 
     En este ejemplo se ve todas la bases de usar vuex:
-    para el amnejo de estados dentro de la aplicacion de node 
+    para el manejo de estados dentro de la aplicacion de vue 
 
 
 ## Project setup

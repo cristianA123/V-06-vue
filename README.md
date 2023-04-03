@@ -3,26 +3,7 @@
     En este ejemplo se ve todas la bases de usar vuex:
     para el manejo de estados dentro de la aplicacion de vue 
 
+### EN ESTA SECCION:
 
-## Project setup
-```
-npm install
-```
+    Se creo una carpeta Module-template para crear los store de cada modulo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
